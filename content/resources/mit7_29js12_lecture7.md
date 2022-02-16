@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding electrical and chemical
   synaptic transmission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-29j-cellular-neurobiology-spring-2012/e3eefecc5587863e484a730618c61fd6_MIT7_29JS12_lecture7.pdf
+file: /media/courses/7-29j-cellular-neurobiology-spring-2012/e3eefecc5587863e484a730618c61fd6_MIT7_29JS12_lecture7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 7 Notes
 uid: e3eefecc-5587-863e-484a-730618c61fd6

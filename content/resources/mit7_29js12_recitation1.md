@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding recitation 1 worksheet
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-29j-cellular-neurobiology-spring-2012/92b93ec28083b30a8ad05cb32c38dbda_MIT7_29JS12_Recitation1.pdf
+file: /media/courses/7-29j-cellular-neurobiology-spring-2012/92b93ec28083b30a8ad05cb32c38dbda_MIT7_29JS12_Recitation1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: Recitation 1 Worksheet
 uid: 92b93ec2-8083-b30a-8ad0-5cb32c38dbda
