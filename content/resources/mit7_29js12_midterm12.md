@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d2390e83-ded9-ab0a-9f7a-c44e6a492e73
 resourcetype: Document
 title: Cellular Neurobiology Midterm 2012
 uid: 1bef65f6-857e-7136-311f-b46f0e4a53e5

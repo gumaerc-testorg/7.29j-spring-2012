@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f4d07241-2949-9aa0-6df2-d2d157c822dc
 resourcetype: Document
 title: List of Visual and Auditory Disorders
 uid: e311a229-0117-0bc1-2c90-a766d829d46f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a9aa3689-693b-099b-588c-e52e45ccd0b6
 resourcetype: Document
 title: Cellular Neurobiology Problem Set 1
 uid: cb8f66e8-7460-41f1-7f82-32c181fb6992

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f4d07241-2949-9aa0-6df2-d2d157c822dc
 resourcetype: Document
 title: An Outline of Blockers and Toxins at the Neuromuscular Junction
 uid: 42abc763-c77d-0bad-3456-92da56b43cb8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: d42a92c1-acc3-e1d5-981e-bb2467ea68e5
 resourcetype: Document
 title: Recitation 11 Worksheet
 uid: da7e3727-8c64-5e39-46c1-c5cda6cf48eb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f4d07241-2949-9aa0-6df2-d2d157c822dc
 resourcetype: Document
 title: Handout on Receptor Binding
 uid: 78030f34-fc39-66dd-09cc-60bcc996d10a

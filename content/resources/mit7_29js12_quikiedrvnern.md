@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f4d07241-2949-9aa0-6df2-d2d157c822dc
 resourcetype: Document
 title: Derivation of the Nernst Equation
 uid: af68f603-cbd0-498d-8feb-57817dc8689b
