@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding pain and thermoreception.
-file: /media/courses/7-29j-cellular-neurobiology-spring-2012/09cd7bfd1935b992d1734b07e95d1f29_MIT7_29JS12_lecture23.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/09cd7bfd1935b992d1734b07e95d1f29_MIT7_29JS12_lecture23.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Lecture 23 Notes
 uid: 09cd7bfd-1935-b992-d173-4b07e95d1f29
 ---
+This resource contains information regarding pain and thermoreception.
+
