@@ -5,6 +5,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/da7e37278c645e3946c1c5cda
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Recitation 11 Worksheet
 uid: da7e3727-8c64-5e39-46c1-c5cda6cf48eb
 ---
 This resource contains information regarding recitation 11 worksheet
-

@@ -6,6 +6,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/dbcbce730f65354c5d1928da6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Cellular Neurobiology Midterm 2011
 uid: dbcbce73-0f65-354c-5d19-28da6454cf77
 ---
 This resource contains information regarding cellular neurobiology midterm 2011
-

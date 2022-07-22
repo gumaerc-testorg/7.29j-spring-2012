@@ -5,6 +5,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/170f902c1473ccbaa7006dc09
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Recitation 6 Worksheet
 uid: 170f902c-1473-ccba-a700-6dc09750c21e
 ---
 This resource contains information regarding recitation 6 worksheet
-

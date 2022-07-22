@@ -6,6 +6,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/1c64d463a7ab7bf7440853899
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 9 Notes
 uid: 1c64d463-a7ab-7bf7-4408-538995d0e356
 ---
 This resource contains information regarding indirect mechanisms of synaptic transmission.
-

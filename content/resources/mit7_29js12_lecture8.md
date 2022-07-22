@@ -6,6 +6,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/2cae03bfbe2f39985dd6fd265
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 8 Notes
 uid: 2cae03bf-be2f-3998-5dd6-fd265ffcea85
 ---
 This resource contains information regarding mechanisms of transmitter release at synapses.
-

@@ -6,6 +6,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/124146a35fbf193bf1006d2cb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Cellular Neurobiology Problem Set 3
 uid: 124146a3-5fbf-193b-f100-6d2cb9000ffd
 ---
 This resource contains information regarding cellular neurobiology problem set 3
-

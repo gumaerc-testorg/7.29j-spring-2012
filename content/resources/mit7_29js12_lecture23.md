@@ -5,6 +5,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/09cd7bfd1935b992d1734b07e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 23 Notes
 uid: 09cd7bfd-1935-b992-d173-4b07e95d1f29
 ---
 This resource contains information regarding pain and thermoreception.
-

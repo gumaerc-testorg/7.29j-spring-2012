@@ -6,6 +6,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/3b2081c1f2ca1ce9067def717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 10 Notes
 uid: 3b2081c1-f2ca-1ce9-067d-ef717a2698bb
 ---
 This resource contains information regarding biochemistry of synaptic transmission.
-

@@ -5,6 +5,7 @@ file: /courses/7-29j-cellular-neurobiology-spring-2012/c75e147ee66ee2017e658076c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 21 Notes
 uid: c75e147e-e66e-e201-7e65-8076c38e6931
 ---
 This resource contains information regarding hearing.
-
