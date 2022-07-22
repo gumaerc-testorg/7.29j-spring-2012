@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course and
+  lecture notes taken in 2005 by a student.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c18fbdf6-570a-61ff-8377-ca8c8a2ce508
 ---
@@ -31,7 +36,7 @@ LECTURER
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction to the Nervous System (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture1)
+{{% resource_link 9e5cf8de-d810-fa9b-14bf-5d5b1604a0e4 "Introduction to the Nervous System (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -43,7 +48,7 @@ WQ
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Membrane Channels and Signaling (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture2)
+{{% resource_link 8ba60a78-6a41-150d-f181-d5fe765e3298 "Membrane Channels and Signaling (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -55,7 +60,7 @@ WQ
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ionic basis of the Resting Potential (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture3)
+{{% resource_link 97784a64-b12c-4a74-3140-7b277d321069 "Ionic basis of the Resting Potential (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -67,7 +72,7 @@ WQ
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Action Potential I (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture4)
+{{% resource_link 361b53da-8899-6217-6c4c-38c6aa8bd3f5 "Action Potential I (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -79,7 +84,7 @@ WQ
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Action Potential II (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture5)
+{{% resource_link 67beb353-c4c2-0653-ac07-564fa0c12efa "Action Potential II (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -91,7 +96,7 @@ WQ
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Neurons as Conductors: Propagation of the Action Potential (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture6)
+{{% resource_link ab35b4fc-7235-4de9-611c-b5e0d3d8c737 "Neurons as Conductors: Propagation of the Action Potential (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -103,7 +108,7 @@ WQ
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Electrical and Chemical Synaptic Transmission (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture7)
+{{% resource_link e3eefecc-5587-863e-484a-730618c61fd6 "Electrical and Chemical Synaptic Transmission (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -115,7 +120,7 @@ WQ
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mechanisms of Transmitter Release at Synapses (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture8)
+{{% resource_link 2cae03bf-be2f-3998-5dd6-fd265ffcea85 "Mechanisms of Transmitter Release at Synapses (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -127,7 +132,7 @@ WQ
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Indirect Mechanisms of Synaptic Transmission (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture9)
+{{% resource_link 1c64d463-a7ab-7bf7-4408-538995d0e356 "Indirect Mechanisms of Synaptic Transmission (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -139,7 +144,7 @@ WQ
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Biochemistry of Synaptic Transmission (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture10)
+{{% resource_link 3b2081c1-f2ca-1ce9-067d-ef717a2698bb "Biochemistry of Synaptic Transmission (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -151,7 +156,7 @@ WQ
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Learning and Memory I (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture11)
+{{% resource_link 8693edd5-813e-6c19-16d7-9c3896372afd "Learning and Memory I (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -163,7 +168,7 @@ WQ
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Learning and Memory II (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture12)
+{{% resource_link 8a890eb1-e7ff-2d13-3013-ad0f02967517 "Learning and Memory II (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 WQ
@@ -175,7 +180,7 @@ WQ
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[From Genes to Structure to Behavior (PDF - 1.2MB)]({{< baseurl >}}/resources/mit7_29js12_lecture13)
+{{% resource_link 7869fbd5-1dc0-b6f4-b1d5-e7afad592e6d "From Genes to Structure to Behavior (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -187,7 +192,7 @@ TL
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nervous System Development I (PDF - 1.5MB)]({{< baseurl >}}/resources/mit7_29js12_lecture14)
+{{% resource_link 7df8f148-0918-64ef-2457-02b3a0050ad3 "Nervous System Development I (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -199,7 +204,7 @@ TL
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nervous System Development II (PDF - 1.1MB)]({{< baseurl >}}/resources/mit7_29js12_lecture15)
+{{% resource_link bb383248-bc4d-2bee-4401-294fe7b73bd4 "Nervous System Development II (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -211,7 +216,7 @@ TL
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Axon Guidance I (PDF - 1.6MB)]({{< baseurl >}}/resources/mit7_29js12_lecture16)
+{{% resource_link bd025a53-e182-60d8-891f-2c1d7b535dd7 "Axon Guidance I (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -223,7 +228,7 @@ TL
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Synapse Formation (PDF - 1.1MB)]({{< baseurl >}}/resources/mit7_29js12_lecture17)
+{{% resource_link 56dcf748-d6d0-41d4-35d0-52e3c94f8eae "Synapse Formation (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -235,7 +240,7 @@ TL
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fine-Tuning Synaptic Connections (PDF - 1.6MB)]({{< baseurl >}}/resources/mit7_29js12_lecture18)
+{{% resource_link 6cfe86b5-9684-8a44-9b3e-b08a5b6fb782 "Fine-Tuning Synaptic Connections (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -247,7 +252,7 @@ TL
 19
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vision I (PDF - 1.2MB)]({{< baseurl >}}/resources/mit7_29js12_lecture19)
+{{% resource_link c6b6f167-0375-096f-87fe-6a85e6aaf5a5 "Vision I (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -259,7 +264,7 @@ TL
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Vision II (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture20)
+{{% resource_link e2bbf3b0-4010-55ae-e281-bb3655a9af09 "Vision II (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -271,7 +276,7 @@ TL
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hearing (PDF - 2.1MB)]({{< baseurl >}}/resources/mit7_29js12_lecture21)
+{{% resource_link c75e147e-e66e-e201-7e65-8076c38e6931 "Hearing (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -283,7 +288,7 @@ TL
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Olfaction and Other Sensory Systems (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture22)
+{{% resource_link 14bf06dc-4a7d-bec7-e45f-76f23810cb74 "Olfaction and Other Sensory Systems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -295,7 +300,7 @@ TL
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pain and Thermoreception (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture23)
+{{% resource_link 09cd7bfd-1935-b992-d173-4b07e95d1f29 "Pain and Thermoreception (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
@@ -307,7 +312,7 @@ TL
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Higher Order Cognitive Function (PDF)]({{< baseurl >}}/resources/mit7_29js12_lecture24)
+{{% resource_link 731f0484-399f-97a2-848f-4bd6885e4a85 "Higher Order Cognitive Function (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 TL
