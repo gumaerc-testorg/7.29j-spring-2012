@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding learning and memory II.
 file: /courses/7-29j-cellular-neurobiology-spring-2012/8a890eb1e7ff2d133013ad0f02967517_MIT7_29JS12_lecture12.pdf
+file_size: 292374
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

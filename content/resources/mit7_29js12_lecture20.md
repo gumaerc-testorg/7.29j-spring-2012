@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding  vision II.
 file: /courses/7-29j-cellular-neurobiology-spring-2012/e2bbf3b0401055aee281bb3655a9af09_MIT7_29JS12_lecture20.pdf
+file_size: 501020
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

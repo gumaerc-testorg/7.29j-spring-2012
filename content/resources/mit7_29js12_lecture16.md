@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding axon guidance I.
 file: /courses/7-29j-cellular-neurobiology-spring-2012/bd025a53e18260d8891f2c1d7b535dd7_MIT7_29JS12_lecture16.pdf
+file_size: 1705181
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
