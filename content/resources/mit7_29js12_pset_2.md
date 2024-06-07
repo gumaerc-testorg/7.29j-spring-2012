@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding cellular neurobiology problem
   set 2
 file: /courses/7-29j-cellular-neurobiology-spring-2012/eb856ca2db9b264db01ba9ee4770371b_MIT7_29JS12_PSet_2.pdf
+file_size: 239418
 file_type: application/pdf
 learning_resource_types:
 - Assignments

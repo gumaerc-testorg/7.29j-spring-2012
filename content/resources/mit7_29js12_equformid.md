@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding equations and helpful Facts
   for the mid-term exam
 file: /courses/7-29j-cellular-neurobiology-spring-2012/1eda9221ececd40bf53469c9d3d1abf9_MIT7_29JS12_EquForMid.pdf
+file_size: 337435
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
