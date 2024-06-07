@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding study sheet for signaling
   pathways
 file: /courses/7-29j-cellular-neurobiology-spring-2012/e5737c33e212347697011c248636d089_MIT7_29JS12_SigPathwaySht.pdf
+file_size: 82363
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding recitation 7 worksheet
 file: /courses/7-29j-cellular-neurobiology-spring-2012/6af14e58eab01915facc15e36b4f7da3_MIT7_29JS12_Recitation7.pdf
+file_size: 238069
 file_type: application/pdf
 learning_resource_types:
 - Recitations

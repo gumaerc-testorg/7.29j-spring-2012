@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding sensory systems review
 file: /courses/7-29j-cellular-neurobiology-spring-2012/777feff292c62cff78cf4b73e0e3525b_MIT7_29JS12_SensorySysRew.pdf
+file_size: 696758
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

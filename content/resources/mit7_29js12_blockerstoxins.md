@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding an outline of blockers and
   toxins at the neuromuscular junction
 file: /courses/7-29j-cellular-neurobiology-spring-2012/42abc763c77d0bad345692da56b43cb8_MIT7_29JS12_blockersToxins.pdf
+file_size: 95256
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding from genes to structure
   to behavior.
 file: /courses/7-29j-cellular-neurobiology-spring-2012/7869fbd51dc0b6f4b1d5e7afad592e6d_MIT7_29JS12_lecture13.pdf
+file_size: 1240466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
