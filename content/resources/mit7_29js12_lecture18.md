@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding fine-tuning synaptic connections.
-file: /courses/7-29j-cellular-neurobiology-spring-2012/6cfe86b596848a449b3eb08a5b6fb782_MIT7_29JS12_lecture18.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/6cfe86b596848a449b3eb08a5b6fb782_MIT7_29JS12_lecture18.pdf
 file_size: 1718945
 file_type: application/pdf
 learning_resource_types:
