@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding olfaction and other sensory
   systems.
-file: /courses/7-29j-cellular-neurobiology-spring-2012/14bf06dc4a7dbec7e45f76f23810cb74_MIT7_29JS12_lecture22.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/14bf06dc4a7dbec7e45f76f23810cb74_MIT7_29JS12_lecture22.pdf
 file_size: 798961
 file_type: application/pdf
 learning_resource_types:
