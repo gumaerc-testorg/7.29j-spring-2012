@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding mechanisms of transmitter
   release at synapses.
-file: /courses/7-29j-cellular-neurobiology-spring-2012/2cae03bfbe2f39985dd6fd265ffcea85_MIT7_29JS12_lecture8.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/2cae03bfbe2f39985dd6fd265ffcea85_MIT7_29JS12_lecture8.pdf
 file_size: 780684
 file_type: application/pdf
 learning_resource_types:

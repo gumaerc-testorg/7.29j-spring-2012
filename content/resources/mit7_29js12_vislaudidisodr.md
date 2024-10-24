@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding list of visual and auditory
   disorders
-file: /courses/7-29j-cellular-neurobiology-spring-2012/e311a22901170bc12c90a766d829d46f_MIT7_29JS12_VislAudiDisodr.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/e311a22901170bc12c90a766d829d46f_MIT7_29JS12_VislAudiDisodr.pdf
 file_size: 206624
 file_type: application/pdf
 learning_resource_types: []
