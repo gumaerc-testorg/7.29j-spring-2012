@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding neurons as conductors:
   propagation of the action potential.'
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/ab35b4fc72354de9611cb5e0d3d8c737_MIT7_29JS12_lecture6.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/ab35b4fc72354de9611cb5e0d3d8c737_MIT7_29JS12_lecture6.pdf
 file_size: 327514
 file_type: application/pdf
 learning_resource_types:

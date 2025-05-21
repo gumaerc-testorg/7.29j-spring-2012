@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding nervous system development
   II.
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/bb383248bc4d2bee4401294fe7b73bd4_MIT7_29JS12_lecture15.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/bb383248bc4d2bee4401294fe7b73bd4_MIT7_29JS12_lecture15.pdf
 file_size: 1137673
 file_type: application/pdf
 learning_resource_types:
