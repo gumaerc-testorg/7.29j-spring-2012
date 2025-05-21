@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding learning and memory I.
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/8693edd5813e6c1916d79c3896372afd_MIT7_29JS12_lecture11.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/8693edd5813e6c1916d79c3896372afd_MIT7_29JS12_lecture11.pdf
 file_size: 554142
 file_type: application/pdf
 learning_resource_types:

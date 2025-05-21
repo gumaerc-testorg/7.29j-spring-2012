@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding action potential I. '
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/361b53da889962176c4c38c6aa8bd3f5_MIT7_29JS12_lecture4.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/361b53da889962176c4c38c6aa8bd3f5_MIT7_29JS12_lecture4.pdf
 file_size: 174719
 file_type: application/pdf
 learning_resource_types:

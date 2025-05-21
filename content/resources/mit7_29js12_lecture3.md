@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding ionic basis of the resting
   potential.
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/97784a64b12c4a7431407b277d321069_MIT7_29JS12_lecture3.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/97784a64b12c4a7431407b277d321069_MIT7_29JS12_lecture3.pdf
 file_size: 270218
 file_type: application/pdf
 learning_resource_types:

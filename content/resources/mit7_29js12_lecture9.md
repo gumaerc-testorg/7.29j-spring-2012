@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding indirect mechanisms of synaptic
   transmission.
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/1c64d463a7ab7bf74408538995d0e356_MIT7_29JS12_lecture9.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/1c64d463a7ab7bf74408538995d0e356_MIT7_29JS12_lecture9.pdf
 file_size: 323057
 file_type: application/pdf
 learning_resource_types:

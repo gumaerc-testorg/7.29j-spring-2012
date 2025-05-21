@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding recitation 8 worksheet
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/cdff14eaceac28cf6d014c35dcd80fce_MIT7_29JS12_Recitation8.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/cdff14eaceac28cf6d014c35dcd80fce_MIT7_29JS12_Recitation8.pdf
 file_size: 325242
 file_type: application/pdf
 learning_resource_types:
