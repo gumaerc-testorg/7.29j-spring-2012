@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding pain and thermoreception.
-file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/09cd7bfd1935b992d1734b07e95d1f29_MIT7_29JS12_lecture23.pdf
+file: /courses/7-29j-cellular-neurobiology-spring-2012/09cd7bfd1935b992d1734b07e95d1f29_MIT7_29JS12_lecture23.pdf
 file_size: 487968
 file_type: application/pdf
 learning_resource_types:
