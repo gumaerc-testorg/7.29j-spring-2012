@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding introduction to the nervous
   system.
-file: /courses/7-29j-cellular-neurobiology-spring-2012/9e5cf8ded810fa9b14bf5d5b1604a0e4_MIT7_29JS12_lecture1.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/9e5cf8ded810fa9b14bf5d5b1604a0e4_MIT7_29JS12_lecture1.pdf
 file_size: 492363
 file_type: application/pdf
 learning_resource_types:

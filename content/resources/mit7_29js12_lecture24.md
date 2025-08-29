@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding higher order cognitive function.
-file: /courses/7-29j-cellular-neurobiology-spring-2012/731f0484399f97a2848f4bd6885e4a85_MIT7_29JS12_lecture24.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/731f0484399f97a2848f4bd6885e4a85_MIT7_29JS12_lecture24.pdf
 file_size: 791854
 file_type: application/pdf
 learning_resource_types:
