@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding cellular neurobiology midterm
   2009
-file: /courses/7-29j-cellular-neurobiology-spring-2012/de93073dce5526564af3cb8b16fd2e90_MIT7_29JS12_Midterm09.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/de93073dce5526564af3cb8b16fd2e90_MIT7_29JS12_Midterm09.pdf
 file_size: 117496
 file_type: application/pdf
 learning_resource_types:
