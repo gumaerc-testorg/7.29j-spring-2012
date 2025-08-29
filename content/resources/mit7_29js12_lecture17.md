@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding synapse formation.
-file: /courses/7-29j-cellular-neurobiology-spring-2012/56dcf748d6d041d435d052e3c94f8eae_MIT7_29JS12_lecture17.pdf
+file: /ol-ocw-studio-app/courses/7-29j-cellular-neurobiology-spring-2012/56dcf748d6d041d435d052e3c94f8eae_MIT7_29JS12_lecture17.pdf
 file_size: 1125200
 file_type: application/pdf
 learning_resource_types:
